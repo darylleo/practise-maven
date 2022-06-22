@@ -1,0 +1,8 @@
+server:
+  port: 16666
+
+xydata:
+  file:
+    pdfPath: C:\Users\Daryl\Desktop
+    fontPath: C:\Users\Daryl\Desktop
+    fontOpen: true

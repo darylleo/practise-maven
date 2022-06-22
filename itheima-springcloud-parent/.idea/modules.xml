@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima-eureka-server/itheima-eureka-server.iml" filepath="$PROJECT_DIR$/itheima-eureka-server/itheima-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-springcloud-parent.iml" filepath="$PROJECT_DIR$/itheima-springcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-user-consumer/itheima-user-consumer.iml" filepath="$PROJECT_DIR$/itheima-user-consumer/itheima-user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-user-provider/itheima-user-provider.iml" filepath="$PROJECT_DIR$/itheima-user-provider/itheima-user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-user-provider2/itheima-user-provider2.iml" filepath="$PROJECT_DIR$/itheima-user-provider2/itheima-user-provider2.iml" />
+    </modules>
+  </component>
+</project>

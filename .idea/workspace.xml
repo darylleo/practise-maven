@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e06c0295-276b-4814-9e1f-a23b731a6d44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="mapper" />
+        <option value="service" />
+        <option value="api" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Environment\apache-maven-3.8.1\repository" />
+        <option name="mavenHome" value="F:/Environment/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="F:\Environment\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="22PUAMqzsKbvl2gPkeVxp5B6Iyh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yuan/changgou98" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.daryl.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\practise-maven\daryl-learning\src\main\java\com\daryl\util\pdf" />
+      <recent name="E:\IdeaProject\practise-maven\darayl-learning\src\main\java\com\daryl\leetcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BM1">
+    <configuration name="BM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daryl.niuke.zaixianbiancheng.BM1" />
+      <module name="daryl-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.niuke.zaixianbiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daryl.leetcode.LeetCode001" />
+      <module name="daryl-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daryl.leetcode.LeetCode002" />
+      <module name="daryl-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daryl.leetcode.LeetCode003" />
+      <module name="daryl-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DarylTest.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="daryl-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.mytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.daryl.mytest" />
+      <option name="MAIN_CLASS_NAME" value="com.daryl.mytest.DarylTest" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.daryl.EurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.daryl.GatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.daryl.MyBootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="CLASSPATH_FILE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LeetCode001" />
+      <item itemvalue="Application.LeetCode002" />
+      <item itemvalue="Application.LeetCode003" />
+      <item itemvalue="Application.BM1" />
+      <item itemvalue="JUnit.DarylTest.test06" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.MyBootApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BM1" />
+        <item itemvalue="Application.LeetCode003" />
+        <item itemvalue="Application.LeetCode002" />
+        <item itemvalue="Application.LeetCode001" />
+        <item itemvalue="JUnit.DarylTest.test06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e06c0295-276b-4814-9e1f-a23b731a6d44" name="Default Changelist" comment="" />
+      <created>1639738571869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639738571869</updated>
+      <workItem from="1639738573120" duration="1450000" />
+      <workItem from="1639887499063" duration="9000" />
+      <workItem from="1639989796687" duration="3909000" />
+      <workItem from="1640050275787" duration="8586000" />
+      <workItem from="1640135354810" duration="85000" />
+      <workItem from="1640165056402" duration="1646000" />
+      <workItem from="1640221387168" duration="34000" />
+      <workItem from="1640248773654" duration="2738000" />
+      <workItem from="1640418400933" duration="758000" />
+      <workItem from="1640567435602" duration="88000" />
+      <workItem from="1640567905639" duration="8693000" />
+      <workItem from="1640662992568" duration="17217000" />
+      <workItem from="1640740131632" duration="27000" />
+      <workItem from="1640859005523" duration="11459000" />
+      <workItem from="1640945341708" duration="35000" />
+      <workItem from="1641286013419" duration="3913000" />
+      <workItem from="1641289971634" duration="604000" />
+      <workItem from="1641344855144" duration="3742000" />
+      <workItem from="1641351937480" duration="77000" />
+      <workItem from="1641352220206" duration="6067000" />
+      <workItem from="1641458560677" duration="5859000" />
+      <workItem from="1641517617570" duration="8000" />
+      <workItem from="1641536183434" duration="7084000" />
+      <workItem from="1641779987248" duration="13314000" />
+      <workItem from="1641798228960" duration="5951000" />
+      <workItem from="1641867322410" duration="145000" />
+      <workItem from="1641867478701" duration="304000" />
+      <workItem from="1641868022007" duration="2058000" />
+      <workItem from="1641870139875" duration="1107000" />
+      <workItem from="1641872977106" duration="13450000" />
+      <workItem from="1641949523411" duration="18463000" />
+      <workItem from="1641976631442" duration="3180000" />
+      <workItem from="1642062790428" duration="2711000" />
+      <workItem from="1642068159473" duration="3338000" />
+      <workItem from="1642122578832" duration="1840000" />
+      <workItem from="1642130989798" duration="4838000" />
+      <workItem from="1642381757924" duration="16000" />
+      <workItem from="1642408827584" duration="5441000" />
+      <workItem from="1642467942081" duration="2363000" />
+      <workItem from="1642475785376" duration="1923000" />
+      <workItem from="1642584014758" duration="2654000" />
+      <workItem from="1642640848677" duration="8616000" />
+      <workItem from="1642731798302" duration="2891000" />
+      <workItem from="1643695148291" duration="4120000" />
+      <workItem from="1644204633264" duration="2020000" />
+      <workItem from="1644391889911" duration="6013000" />
+      <workItem from="1644407359004" duration="1000" />
+      <workItem from="1644455384440" duration="9313000" />
+      <workItem from="1644572994825" duration="1055000" />
+      <workItem from="1644630831915" duration="341000" />
+      <workItem from="1644807380164" duration="10024000" />
+      <workItem from="1644976869037" duration="6154000" />
+      <workItem from="1644994737142" duration="6718000" />
+      <workItem from="1645093124509" duration="2709000" />
+      <workItem from="1645146408859" duration="4937000" />
+      <workItem from="1645170965596" duration="5004000" />
+      <workItem from="1645436737021" duration="1105000" />
+      <workItem from="1645518526082" duration="4025000" />
+      <workItem from="1645687974839" duration="5696000" />
+      <workItem from="1645752880761" duration="6521000" />
+      <workItem from="1645779499377" duration="1278000" />
+      <workItem from="1646208401599" duration="2858000" />
+      <workItem from="1646269643654" duration="236000" />
+      <workItem from="1646272398777" duration="4235000" />
+      <workItem from="1646302259513" duration="74000" />
+      <workItem from="1646303995123" duration="404000" />
+      <workItem from="1646356003427" duration="27000" />
+      <workItem from="1646638221786" duration="2808000" />
+      <workItem from="1646642119862" duration="594000" />
+      <workItem from="1646643034726" duration="13000" />
+      <workItem from="1646643430348" duration="2422000" />
+      <workItem from="1646702204254" duration="3609000" />
+      <workItem from="1646788308176" duration="9605000" />
+      <workItem from="1646891265468" duration="6772000" />
+      <workItem from="1646900015124" duration="2591000" />
+      <workItem from="1646960862845" duration="8282000" />
+      <workItem from="1646970422919" duration="15116000" />
+      <workItem from="1647226570708" duration="2568000" />
+      <workItem from="1647233300020" duration="6537000" />
+      <workItem from="1647251889812" duration="385000" />
+      <workItem from="1647306462597" duration="9148000" />
+      <workItem from="1647392857748" duration="1395000" />
+      <workItem from="1647396155344" duration="1375000" />
+      <workItem from="1647408906205" duration="3871000" />
+      <workItem from="1647828564884" duration="5812000" />
+      <workItem from="1647841097183" duration="8549000" />
+      <workItem from="1647855478944" duration="640000" />
+      <workItem from="1648106985297" duration="5751000" />
+      <workItem from="1648190026071" duration="5519000" />
+      <workItem from="1648202745546" duration="100000" />
+      <workItem from="1648447785728" duration="10644000" />
+      <workItem from="1648516106174" duration="8243000" />
+      <workItem from="1648602468850" duration="4485000" />
+      <workItem from="1648688957457" duration="1908000" />
+      <workItem from="1648721170257" duration="2629000" />
+      <workItem from="1648775238438" duration="2432000" />
+      <workItem from="1649325960038" duration="373000" />
+      <workItem from="1649326612649" duration="594000" />
+      <workItem from="1649380359662" duration="8000" />
+      <workItem from="1650002730243" duration="1910000" />
+      <workItem from="1650004680731" duration="3358000" />
+      <workItem from="1650244265909" duration="1627000" />
+      <workItem from="1650330747286" duration="3943000" />
+      <workItem from="1650417113109" duration="4364000" />
+      <workItem from="1650507662217" duration="19891000" />
+      <workItem from="1650589780119" duration="15069000" />
+      <workItem from="1651722566707" duration="6550000" />
+      <workItem from="1651887170365" duration="6769000" />
+      <workItem from="1652068022341" duration="5490000" />
+      <workItem from="1652144771341" duration="6693000" />
+      <workItem from="1652161216124" duration="3549000" />
+      <workItem from="1653019565210" duration="4891000" />
+      <workItem from="1653269188611" duration="653000" />
+      <workItem from="1653280110211" duration="1267000" />
+      <workItem from="1653282788019" duration="3434000" />
+      <workItem from="1655034283747" duration="5642000" />
+      <workItem from="1655081520099" duration="4415000" />
+      <workItem from="1655098814002" duration="659000" />
+      <workItem from="1655123665364" duration="2955000" />
+      <workItem from="1655190010807" duration="62000" />
+      <workItem from="1655194129733" duration="5056000" />
+      <workItem from="1655284129235" duration="3675000" />
+      <workItem from="1655374699054" duration="1334000" />
+      <workItem from="1655376069074" duration="79000" />
+      <workItem from="1655376223995" duration="1566000" />
+      <workItem from="1655377833055" duration="10000" />
+      <workItem from="1655378024809" duration="184000" />
+      <workItem from="1655382841111" duration="744000" />
+      <workItem from="1655454317191" duration="43000" />
+      <workItem from="1655454379855" duration="9540000" />
+      <workItem from="1655603116127" duration="1272000" />
+      <workItem from="1655632227321" duration="5942000" />
+      <workItem from="1655686644374" duration="2696000" />
+      <workItem from="1655782561163" duration="629000" />
+      <workItem from="1655789559795" duration="13000" />
+      <workItem from="1655791717255" duration="1784000" />
+      <workItem from="1655794372971" duration="1039000" />
+      <workItem from="1655798185178" duration="594000" />
+      <workItem from="1655799827746" duration="641000" />
+      <workItem from="1655803257167" duration="885000" />
+      <workItem from="1655804740909" duration="931000" />
+      <workItem from="1655862148660" duration="1472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="0" width="1100" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652145577744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="0" width="1100" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1652145577744" />
+    <state x="527" y="7" key="#com.intellij.ide.util.MemberChooser" timestamp="1655805098132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="7" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1655805098132" />
+    <state x="331" y="236" width="874" height="358" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1649326134656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="236" width="874" height="358" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1649326134656" />
+    <state x="496" y="46" key="FileChooserDialogImpl" timestamp="1655190071490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="46" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1655190071490" />
+    <state x="543" y="291" key="Github.CreateGistDialog" timestamp="1650351299212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="291" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1650351299212" />
+    <state width="1483" height="240" key="GridCell.Tab.0.bottom" timestamp="1655805262852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="240" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1655805262852" />
+    <state width="1483" height="527" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1648461861096" />
+    <state width="2507" height="925" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1655643329458" />
+    <state width="1483" height="240" key="GridCell.Tab.0.center" timestamp="1655805262852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="240" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1655805262852" />
+    <state width="1483" height="527" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1648461861095" />
+    <state width="2507" height="925" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1655643329458" />
+    <state width="1483" height="240" key="GridCell.Tab.0.left" timestamp="1655805262852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="240" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1655805262852" />
+    <state width="1483" height="527" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1648461861095" />
+    <state width="2507" height="925" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1655643329458" />
+    <state width="1483" height="240" key="GridCell.Tab.0.right" timestamp="1655805262852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="240" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1655805262852" />
+    <state width="1483" height="527" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1648461861095" />
+    <state width="2507" height="925" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1655643329458" />
+    <state width="2507" height="925" key="GridCell.Tab.1.bottom" timestamp="1655643329459">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1483" height="485" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1655549264636" />
+    <state width="1483" height="364" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1648461861092" />
+    <state width="2507" height="925" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1655643329459" />
+    <state width="2507" height="925" key="GridCell.Tab.1.center" timestamp="1655643329458">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1483" height="485" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1655549264636" />
+    <state width="1483" height="364" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1648461861092" />
+    <state width="2507" height="925" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1655643329458" />
+    <state width="2507" height="925" key="GridCell.Tab.1.left" timestamp="1655643329458">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1483" height="485" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1655549264636" />
+    <state width="1483" height="364" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1648461861092" />
+    <state width="2507" height="925" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1655643329458" />
+    <state width="2507" height="925" key="GridCell.Tab.1.right" timestamp="1655643329458">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1483" height="485" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1655549264636" />
+    <state width="1483" height="364" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1648461861092" />
+    <state width="2507" height="925" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1655643329458" />
+    <state width="1483" height="485" key="GridCell.Tab.2.bottom" timestamp="1652158156491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="485" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652158156491" />
+    <state width="1483" height="485" key="GridCell.Tab.2.center" timestamp="1652158156491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="485" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1652158156491" />
+    <state width="1483" height="485" key="GridCell.Tab.2.left" timestamp="1652158156491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="485" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1652158156491" />
+    <state width="1483" height="485" key="GridCell.Tab.2.right" timestamp="1652158156491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="485" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1652158156491" />
+    <state x="183" y="0" key="Maven.ArtifactSearchDialog" timestamp="1650002833511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1650002833511" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1655454358817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1655454358817" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1652146558151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1652146558151" />
+    <state x="604" y="247" width="313" height="349" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1650608910462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="247" width="313" height="349" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.824@0.0.1536.824" timestamp="1650608910462" />
+    <state x="0" y="0" key="new project wizard" timestamp="1653269240784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1653269240784" />
+    <state x="578" y="0" width="1400" height="1397" key="search.everywhere.popup" timestamp="1655641049587">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1652075167739" />
+    <state x="578" y="0" width="1400" height="1397" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1655641049587" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/Program Files/Tools/aProgram/Java/jdk1.8.0_101/src.zip!/java/util/Arrays.java</url>
+          <line>1907</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="com.daryl.niuke.zaixianbiancheng.BM1$ListNode" fieldName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="fields" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/practise_maven$ThreadTest04.ic" NAME="ThreadTest04 Coverage Results" MODIFIED="1650509648307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.daryl.interview.thread.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/practise_maven$DarylTest_test01.ic" NAME="DarylTest.test01 Coverage Results" MODIFIED="1650614040977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.daryl.mytest.*</FILTER>
+    </SUITE>
+  </component>
+</project>

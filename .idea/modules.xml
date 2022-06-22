@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/daryl-learning/daryl-learning.iml" filepath="$PROJECT_DIR$/daryl-learning/daryl-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/spring-cloud-demo/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-demo/rabbitmq-demo.iml" filepath="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo/spring-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo/spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-demo/spring-cloud-eureka-server/spring-cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo/spring-cloud-provider/spring-cloud-provider.iml" filepath="$PROJECT_DIR$/spring-cloud-demo/spring-cloud-provider/spring-cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo/spring-cloud-provider2/spring-cloud-provider2.iml" filepath="$PROJECT_DIR$/spring-cloud-demo/spring-cloud-provider2/spring-cloud-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo/spring-cloud-resttemplate/spring-cloud-resttemplate.iml" filepath="$PROJECT_DIR$/spring-cloud-demo/spring-cloud-resttemplate/spring-cloud-resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch-demo/springboot-elasticsearch-demo.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch-demo/springboot-elasticsearch-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-consumer/springboot-rabbitmq-consumer.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-consumer/springboot-rabbitmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-demo/springboot-rabbitmq-demo.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-demo/springboot-rabbitmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-producer/springboot-rabbitmq-producer.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-producer/springboot-rabbitmq-producer.iml" />
+    </modules>
+  </component>
+</project>

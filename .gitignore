@@ -1,0 +1,13 @@
+# Project exclude paths
+/daryl-learning/target/
+/rabbitmq-demo/target/
+/spring-boot-demo/target/
+/spring-cloud-demo/gateway-service/target/
+/spring-cloud-demo/spring-cloud-eureka-server/target/
+/spring-cloud-demo/spring-cloud-provider/target/
+/spring-cloud-demo/spring-cloud-provider2/target/
+/spring-cloud-demo/spring-cloud-resttemplate/target/
+/springboot-elasticsearch-demo/target/
+/springboot-rabbitmq-consumer/target/
+/springboot-rabbitmq-demo/target/
+/springboot-rabbitmq-producer/target/

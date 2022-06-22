@@ -1,0 +1,16 @@
+server:
+  port: 7001
+eureka:
+  client:
+    register-with-eureka: false   #是否将自己注册到Eureka server中 自己本身就是服务端，需要注册自己
+    fetch-registry: false        #是否从eureka server 拉取 自己不需要拉取
+    service-url:
+      defaultZone: http://localhost:7001/eureka     # EurekaServer的注册的地址
+  server:
+    # 每隔5秒钟检查一次
+    eviction-interval-timer-in-ms: 5000
+    # 关闭自我保护机制（不需要保护，如果检查到没有需要就立即剔除）
+    enable-self-preservation: false
+spring:
+  application:
+    name: eureka-server # 服务名 给自己系统取一个名字

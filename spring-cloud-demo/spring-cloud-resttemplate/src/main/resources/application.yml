@@ -1,0 +1,56 @@
+server:
+  port: 18082
+
+spring:
+  application:
+    name: user-consumer
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+
+#修改服务地址轮循策略，默认是轮循
+user-provider:
+  ribbon:
+    #轮循
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
+    #随机
+    #NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+    #重试算法,该算法先按照轮询的策略获取服务,如果获取服务失败则在指定的时间内会进行重试，获取可用的服务
+    #NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RetryRule
+    #加权法,会根据平均响应时间计算所有服务的权重，响应时间越快服务权重越大被选中的概率越大。刚启动时如果同统计信息不足，则使用轮询的策略，等统计信息足够会切换到自身规则。
+    #NFLoadBalancerRuleClassName: com.netflix.loadbalancer.ZoneAvoidanceRule
+    ConnectTimeout: 10000 #连接超时时间
+    ReadTimeout: 2000 #数据读取超时时间
+    MaxAutoRetries: 1 #最大重试次数（第一个服务）
+    MaxAutoRetriesNextServer: 0 # 最大重试下一个服务次数（集群的情况才会用到）
+    OkToRetryOnAllOperations: false # 无论是请求超时或者 socket read timeout 都进行重试
+
+hystrix:
+  command:
+    default:
+      circuitBreaker:
+        #强制打开熔断器，默认false关闭的。测试配置是否生效
+        forceOpen: false
+        #触发熔断错误比例阈值，默认值50%
+        errorThresHoldPercentage: 50
+        #熔断后休眠时长，默认值5s
+        sleepWindowInMilliseconds: 10000
+        #熔断触发最小请求次数，默认值是20
+        requestVolumeThreshold: 10
+
+      execution:
+        isolation:
+          thread:
+            # 熔断超时设置，默认为一秒
+            timeoutInMilliseconds: 5000
+
+
+feign:
+  hystrix:
+    enabled: true #开启feign的熔断功能
+
+logging:
+  level:
+    com.daryl: debug
