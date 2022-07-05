@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.amqp:spring-amqp:2.1.5.RELEASE">
     <CLASSES>
-      <root url="jar://F:/Environment/apache-maven-3.8.1/repository/org/springframework/amqp/spring-amqp/2.1.5.RELEASE/spring-amqp-2.1.5.RELEASE.jar!/" />
+      <root url="jar://D:/YuanApplication/Programing/repository/org/springframework/amqp/spring-amqp/2.1.5.RELEASE/spring-amqp-2.1.5.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://F:/Environment/apache-maven-3.8.1/repository/org/springframework/amqp/spring-amqp/2.1.5.RELEASE/spring-amqp-2.1.5.RELEASE-javadoc.jar!/" />
+      <root url="jar://D:/YuanApplication/Programing/repository/org/springframework/amqp/spring-amqp/2.1.5.RELEASE/spring-amqp-2.1.5.RELEASE-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://F:/Environment/apache-maven-3.8.1/repository/org/springframework/amqp/spring-amqp/2.1.5.RELEASE/spring-amqp-2.1.5.RELEASE-sources.jar!/" />
+      <root url="jar://D:/YuanApplication/Programing/repository/org/springframework/amqp/spring-amqp/2.1.5.RELEASE/spring-amqp-2.1.5.RELEASE-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

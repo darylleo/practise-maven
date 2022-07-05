@@ -48,17 +48,17 @@ public class Student {
 
     public static Student yuan(){
         Student yuan = new Student();
-        yuan.setAddress("zjslxsdyzx");
+        yuan.setAddress("zjslxscncz");
         yuan.setAge(24);
         yuan.setName("yuan");
         return yuan;
     }
 
-    public static Student heHuoHuo(){
+    public static Student yan(){
         Student heHuoHuo = new Student();
         heHuoHuo.setAddress("zjslxsdyzx");
         heHuoHuo.setAge(23);
-        heHuoHuo.setName("heHuoHuo");
+        heHuoHuo.setName("yan");
         return heHuoHuo;
     }
 

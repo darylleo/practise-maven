@@ -227,6 +227,9 @@ public class DarylTest {
 
     @Test
     public void test06() {
-        System.out.println(SystemUtils.getUserDir());
+        //System.out.println(SystemUtils.getUserDir());
+        String s = "";
+        String s1 = StringUtils.removeEnd(s, ",");
+        System.out.println("s1 = " + s1);
     }
 }
