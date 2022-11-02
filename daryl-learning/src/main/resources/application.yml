@@ -1,8 +1,11 @@
 server:
   port: 16666
 
-xydata:
-  file:
-    pdfPath: C:\Users\Daryl\Desktop
-    fontPath: C:\Users\Daryl\Desktop
-    fontOpen: true
+spring:
+  application:
+    name: practise-maven
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/house?useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: toor

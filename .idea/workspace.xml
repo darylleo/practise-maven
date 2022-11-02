@@ -24,6 +24,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e06c0295-276b-4814-9e1f-a23b731a6d44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daryl-learning/src/main/java/com/daryl/api/WebTestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/daryl-learning/src/main/java/com/daryl/api/WebTestApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daryl-learning/src/main/java/com/daryl/api/YuanApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/daryl-learning/src/main/java/com/daryl/api/YuanApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daryl-learning/src/main/java/com/daryl/mytest/DarylTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daryl-learning/src/main/java/com/daryl/mytest/DarylTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daryl-learning/src/main/java/com/daryl/mytest/annotationtest/AnnoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daryl-learning/src/main/java/com/daryl/mytest/annotationtest/AnnoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daryl-learning/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/daryl-learning/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +121,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;E:/IdeaProject/practise-maven&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;38fedbdabf984ecd3277063f29db9569&quot;
+    &quot;spring.configuration.checksum&quot;: &quot;4493858ed2d1c8d95fb957fca5759462&quot;
   }
 }</component>
   <component name="ReactorSettings">
@@ -138,13 +143,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode200">
-    <configuration name="LeetCode007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daryl.practice.zaixianbiancheng.leetcode.LeetCode007" />
+  <component name="RunManager" selected="Application.DarylTest">
+    <configuration name="AnnoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daryl.mytest.annotationtest.AnnoTest" />
       <module name="daryl-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daryl.practice.zaixianbiancheng.leetcode.*" />
+          <option name="PATTERN" value="com.daryl.mytest.annotationtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.daryl.practice.zaixianbiancheng.leetcode.LeetCode139" />
+    <configuration name="DarylTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daryl.mytest.DarylTest" />
       <module name="daryl-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.daryl.practice.zaixianbiancheng.leetcode.*" />
+          <option name="PATTERN" value="com.daryl.mytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,6 +183,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AnnoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="daryl-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.mytest.annotationtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.daryl.mytest.annotationtest" />
+      <option name="MAIN_CLASS_NAME" value="com.daryl.mytest.annotationtest.AnnoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DarylTest.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="daryl-learning" />
       <extension name="coverage">
@@ -190,19 +211,6 @@
       <option name="MAIN_CLASS_NAME" value="com.daryl.mytest.DarylTest" />
       <option name="METHOD_NAME" value="test06" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DarylApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="daryl-learning" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.daryl.DarylApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.daryl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -230,22 +238,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode139" />
-      <item itemvalue="Application.LeetCode007" />
+      <item itemvalue="Application.AnnoTest" />
+      <item itemvalue="Application.DarylTest" />
       <item itemvalue="Application.LeetCode200" />
+      <item itemvalue="JUnit.AnnoTest.test" />
       <item itemvalue="JUnit.DarylTest.test06" />
       <item itemvalue="Spring Boot.GatewayApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MyBootApplication" />
-      <item itemvalue="Spring Boot.DarylApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DarylTest" />
+        <item itemvalue="JUnit.AnnoTest.test" />
+        <item itemvalue="Application.AnnoTest" />
         <item itemvalue="Application.LeetCode200" />
         <item itemvalue="JUnit.DarylTest.test06" />
-        <item itemvalue="Spring Boot.DarylApplication" />
-        <item itemvalue="Application.LeetCode007" />
-        <item itemvalue="Application.LeetCode139" />
       </list>
     </recent_temporary>
   </component>
@@ -420,6 +428,8 @@
       <workItem from="1656905931240" duration="3560000" />
       <workItem from="1656923994676" duration="2158000" />
       <workItem from="1656982049387" duration="1582000" />
+      <workItem from="1665661885692" duration="1627000" />
+      <workItem from="1667360634922" duration="5010000" />
     </task>
     <task id="LOCAL-00001" summary="fix: fix">
       <created>1656984272419</created>
@@ -453,7 +463,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://D:/Program Files/Tools/aProgram/Java/jdk1.8.0_101/src.zip!/java/util/Arrays.java</url>
+          <url>jar://$PROJECT_DIR$/../../../Program Files/Tools/aProgram/Java/jdk1.8.0_101/src.zip!/java/util/Arrays.java</url>
           <line>1907</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -474,11 +484,11 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/practise_maven$DarylTest_test01.ic" NAME="DarylTest.test01 Coverage Results" MODIFIED="1650614040977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.daryl.mytest.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/practise_maven$ThreadTest04.ic" NAME="ThreadTest04 Coverage Results" MODIFIED="1650509648307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.daryl.interview.thread.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/practise_maven$DarylTest_test01.ic" NAME="DarylTest.test01 Coverage Results" MODIFIED="1650614040977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.daryl.mytest.*</FILTER>
     </SUITE>
   </component>
 </project>

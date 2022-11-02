@@ -1,8 +1,5 @@
 package com.daryl.mytest;
 
-import cn.hutool.core.convert.Convert;
-import cn.hutool.core.date.LocalDateTimeUtil;
-import com.fasterxml.jackson.core.sym.NameN;
 import net.sourceforge.pinyin4j.PinyinHelper;
 import net.sourceforge.pinyin4j.format.HanyuPinyinCaseType;
 import net.sourceforge.pinyin4j.format.HanyuPinyinOutputFormat;
@@ -10,12 +7,11 @@ import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
 import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
 import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;
 import org.apache.commons.lang3.StringUtils;
-import org.apache.commons.lang3.SystemUtils;
 import org.junit.Test;
 
 import java.sql.*;
-import java.util.*;
 import java.util.Date;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -44,9 +40,9 @@ public class DarylTest {
             Driver driver = new com.mysql.cj.jdbc.Driver();
             DriverManager.registerDriver(driver);
 
-            String url = "jdbc:mysql://localhost:3306/house";
+            String url = "jdbc:mysql://127.0.0.1:3306/house?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=GMT";
             String user = "root";
-            String password = "123456";
+            String password = "toor";
             //获取连接
             conn = DriverManager.getConnection(url, user, password);
 
@@ -210,17 +206,17 @@ public class DarylTest {
         if (length < 4) {
             return list;
         }
-        if (length == 4){
+        if (length == 4) {
             for (char aChar : chars) {
                 sb.append(aChar).append(".");
             }
-            list.add(sb.toString().substring(0,sb.toString().length()-1));
+            list.add(sb.toString().substring(0, sb.toString().length() - 1));
             return list;
         }
         int count = 0;
 
-        for (int i = 0; i <length; i++) {
-            
+        for (int i = 0; i < length; i++) {
+
         }
         return list;
     }
